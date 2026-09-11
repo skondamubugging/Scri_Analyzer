@@ -968,7 +968,7 @@ def render_detail_expander(raw_ticker: str, tech: TechnicalResult, sent: Sentime
 
 def main():
     st.title("Quantitative Script Analyzer")
-    st.title(" Developed by K.Srichandan")
+    st.caption(" Developed by K.Srichandan")
     st.caption(
         "Minervini Trend Template × Stockbee Momentum Burst Engine × Live News Sentiment — "
         "a multi-agent scanner for high-probability, low-risk breakout entries."
